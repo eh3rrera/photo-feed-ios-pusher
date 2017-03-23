@@ -1,0 +1,15 @@
+PODS:
+  - Kingfisher (3.5.0)
+  - PusherSwift (4.0.1)
+
+DEPENDENCIES:
+  - Kingfisher
+  - PusherSwift
+
+SPEC CHECKSUMS:
+  Kingfisher: 7c62087039d93d26c54c8dd9b0b588d2ce55cef6
+  PusherSwift: 8249a1c3634943cf7e1e9a691468357d53ab7e5f
+
+PODFILE CHECKSUM: 7697648790b16ac85d158bb2bbe06b0f2440aa4f
+
+COCOAPODS: 1.2.0
